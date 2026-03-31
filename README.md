@@ -1,4 +1,4 @@
-# xor-clj
+# Train neural network to imitate XOR operator using Clojure libpython-clj and Pytorch
 
 Implementing XOR using a neural network (the hello world of machine learning).
 
