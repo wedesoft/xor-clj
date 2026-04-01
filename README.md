@@ -14,3 +14,8 @@ If your system comes with an older version or if you want to use a Torch version
 Make sure using `uv python list` that the uv environment is using the system installed Python executable otherwise it seems to fail to import the `_ctypes` module.
 
 Run `uv run clj -M -m xor-clj.xor` to run XOR example.
+
+# External links
+
+* [Clojure-Python bridge](https://github.com/clj-python/libpython-clj)
+* [libpython-clj examples by Gigasquid](https://github.com/gigasquid/libpython-clj-examples/)
